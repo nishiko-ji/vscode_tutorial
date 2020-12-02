@@ -1,1 +1,2 @@
 # vscode_tutorial
+VScodeでのgitの使い方の確認
